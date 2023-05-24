@@ -1,0 +1,5 @@
+download Anaconda from chrome or app store
+search for spyder app in your windows.
+Paste the code 
+again go on windows and search for anaconda prompt.
+now type streamlit run webapp.py(this will be the name of your python file)
